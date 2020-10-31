@@ -93,7 +93,7 @@ body{
 .footer{
     text-align: left;
     font-weight: 900;
-    color: white;
+    color: black;
     left:0;
     bottom:0;
     height:3rem;
@@ -103,7 +103,7 @@ body{
     margin-left: 3%;
 }
 .enlace {
-    color: white;
+    color: black;
     text-decoration: none;
 }
 .enlace:hover{
